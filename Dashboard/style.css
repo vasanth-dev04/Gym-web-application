@@ -291,6 +291,9 @@
          background-color: grey;
         border-radius: 5px;
     }
+    .pop-main{
+        width:90%
+    }
 }
 
 /* plan main */
@@ -901,3 +904,4 @@ label {
 }
 
 }
+
