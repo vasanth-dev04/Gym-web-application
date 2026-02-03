@@ -307,6 +307,9 @@
     padding: 20px;
    
 }
+    .pop-main{
+        width:90%;
+    }
 .planb{
       overflow:scroll;
 }
@@ -326,3 +329,4 @@
     font-size: 20px;
 }
 }
+
