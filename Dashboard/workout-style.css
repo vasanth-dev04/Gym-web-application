@@ -236,6 +236,10 @@
     .planabut{
         font-size: 15px;
     }
+    .pop-main{
+        width:90%;
+    }
+}
  /* mobile side bar */
     
     .mob-sidebar{
@@ -325,4 +329,5 @@
 .planahead{
     font-size: 20px;
 }
+
 }
