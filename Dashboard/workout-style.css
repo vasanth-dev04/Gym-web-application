@@ -236,9 +236,6 @@
     .planabut{
         font-size: 15px;
     }
-    .pop-main{
-        width:90%;
-    }
 }
  /* mobile side bar */
     
@@ -266,9 +263,7 @@
         }
     .mob-sidebar ul{
         padding: 0px 5px;
-        padding-top: 50px;
-   
-        
+        padding-top: 50px;      
 
     }
     .mob-sidebar ul li{
@@ -329,5 +324,9 @@
 .planahead{
     font-size: 20px;
 }
+     .pop-main{
+        width:90%;
+    }
 
 }
+
